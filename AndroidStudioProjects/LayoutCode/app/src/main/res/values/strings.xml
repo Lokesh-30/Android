@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutCode</string>
+    <string name="tap_me">tap_me</string>
+    <string name="button_tapped">button_tapped</string>
+</resources>
